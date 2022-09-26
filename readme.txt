@@ -25,3 +25,5 @@ namespace ConsoleApp6
         }//TEST!!!!
     }
 }
+
+task2
