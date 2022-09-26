@@ -27,3 +27,6 @@ namespace ConsoleApp6
 }
 
 task2
+
+task3
+gsfhfhfh
