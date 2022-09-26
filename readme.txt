@@ -22,6 +22,6 @@ namespace ConsoleApp6
             Console.WriteLine("Hello," + " " + name + "!!!");
             Console.ReadLine();
    
-        }
+        }//test
     }
 }
