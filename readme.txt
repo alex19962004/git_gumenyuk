@@ -1,1 +1,1 @@
-for educationai purposes
+//task7
