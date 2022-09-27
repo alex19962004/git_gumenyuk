@@ -25,14 +25,3 @@ namespace ConsoleApp6
         }//TEST!!!!
     }
 }
-
-task2
-
-task3
-gsfhfhfh
-
-
-task4
-dafdasbgdxdfgbf
-
-task5
