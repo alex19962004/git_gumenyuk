@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp7(2)\bin\Debug\net6.0\ConsoleApp7(2) Car Owners.exe
+C:\Users\User\source\repos\ConsoleApp7(2)\bin\Debug\net6.0\ConsoleApp7(2) Car Owners.deps.json
+C:\Users\User\source\repos\ConsoleApp7(2)\bin\Debug\net6.0\ConsoleApp7(2) Car Owners.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp7(2)\bin\Debug\net6.0\ConsoleApp7(2) Car Owners.dll
+C:\Users\User\source\repos\ConsoleApp7(2)\bin\Debug\net6.0\ConsoleApp7(2) Car Owners.pdb
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.dll
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\refint\ConsoleApp7(2) Car Owners.dll
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.pdb
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ConsoleApp7(2) Car Owners.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp7(2)\obj\Debug\net6.0\ref\ConsoleApp7(2) Car Owners.dll
