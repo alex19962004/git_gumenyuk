@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\bin\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.exe
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\bin\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.deps.json
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\bin\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\bin\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.dll
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\bin\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.pdb
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.dll
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\refint\ConsoleApp 12 (2) Telephone directory.dll
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.pdb
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ConsoleApp 12 (2) Telephone directory.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 12 (2) Telephone directory\obj\Debug\net6.0\ref\ConsoleApp 12 (2) Telephone directory.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\bin\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.exe
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\bin\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.deps.json
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\bin\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\bin\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.dll
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\bin\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.pdb
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.dll
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\refint\ConsoleApp 13 (2) Exception_CustomException.dll
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.pdb
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ConsoleApp 13 (2) Exception_CustomException.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 13 (2) Exception_CustomException\obj\Debug\net6.0\ref\ConsoleApp 13 (2) Exception_CustomException.dll

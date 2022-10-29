@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp 13 (2) Exception_CustomException/1.0.0": {
+        "runtime": {
+          "ConsoleApp 13 (2) Exception_CustomException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp 13 (2) Exception_CustomException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
