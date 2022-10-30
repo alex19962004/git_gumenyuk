@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\GoIT\bin\Debug\GoIT.exe.config
+C:\Users\User\source\repos\GoIT\bin\Debug\GoIT.exe
+C:\Users\User\source\repos\GoIT\bin\Debug\GoIT.pdb
+C:\Users\User\source\repos\GoIT\obj\Debug\GoIT.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GoIT\obj\Debug\GoIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\GoIT\obj\Debug\GoIT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GoIT\obj\Debug\GoIT.exe
+C:\Users\User\source\repos\GoIT\obj\Debug\GoIT.pdb
