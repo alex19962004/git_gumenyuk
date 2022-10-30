@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\TestApplication\bin\Debug\TestApplication.exe.config
-C:\Users\User\source\repos\TestApplication\bin\Debug\TestApplication.exe
-C:\Users\User\source\repos\TestApplication\bin\Debug\TestApplication.pdb
-C:\Users\User\source\repos\TestApplication\obj\Debug\TestApplication.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\TestApplication\obj\Debug\TestApplication.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\source\repos\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\TestApplication\obj\Debug\TestApplication.exe
-C:\Users\User\source\repos\TestApplication\obj\Debug\TestApplication.pdb
