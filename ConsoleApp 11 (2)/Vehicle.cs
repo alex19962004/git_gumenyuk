@@ -6,9 +6,9 @@ namespace ConsoleApp_11__2_
         public string Brand { get; set; }
         public int Id { get; set; }
         public int Acceleration { get; set; }
-        public int MaxCarSpeed { get; set; }
-        public int CurrentDistance { get; set; }
-        public int GameTime { get; set; }
+        public int MaxCarSpeed;
+        public int CurrentDistance;
+        public int GameTime;
         public int Distance { get; set; }
         public abstract void Go();
         public abstract bool IsFinsihed();

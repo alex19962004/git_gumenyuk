@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\bin\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.exe
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\bin\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.deps.json
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\bin\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\bin\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.dll
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\bin\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.pdb
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.dll
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\refint\ConsoleApp 15 Catalog of CDs,.dll
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.pdb
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ConsoleApp 15 Catalog of CDs,.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 15 Catalog of CDs,\obj\Debug\net6.0\ref\ConsoleApp 15 Catalog of CDs,.dll
