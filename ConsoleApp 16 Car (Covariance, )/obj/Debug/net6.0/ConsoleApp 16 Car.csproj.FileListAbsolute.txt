@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\ConsoleApp 16 Car\bin\Debug\net6.0\ConsoleApp 16 Car.exe
+C:\Users\User\source\repos\ConsoleApp 16 Car\bin\Debug\net6.0\ConsoleApp 16 Car.deps.json
+C:\Users\User\source\repos\ConsoleApp 16 Car\bin\Debug\net6.0\ConsoleApp 16 Car.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 16 Car\bin\Debug\net6.0\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car\bin\Debug\net6.0\ConsoleApp 16 Car.pdb
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\refint\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.pdb
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ConsoleApp 16 Car.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car\obj\Debug\net6.0\ref\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\bin\Debug\net6.0\ConsoleApp 16 Car.exe
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\bin\Debug\net6.0\ConsoleApp 16 Car.deps.json
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\bin\Debug\net6.0\ConsoleApp 16 Car.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\bin\Debug\net6.0\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\bin\Debug\net6.0\ConsoleApp 16 Car.pdb
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\refint\ConsoleApp 16 Car.dll
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.pdb
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ConsoleApp 16 Car.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 16 Car (Covariance, )\obj\Debug\net6.0\ref\ConsoleApp 16 Car.dll

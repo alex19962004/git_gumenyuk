@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\bin\Debug\net6.0\ConsoleApp 17 (2) City Life.exe
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\bin\Debug\net6.0\ConsoleApp 17 (2) City Life.deps.json
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\bin\Debug\net6.0\ConsoleApp 17 (2) City Life.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\bin\Debug\net6.0\ConsoleApp 17 (2) City Life.dll
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\bin\Debug\net6.0\ConsoleApp 17 (2) City Life.pdb
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.dll
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\refint\ConsoleApp 17 (2) City Life.dll
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.pdb
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ConsoleApp 17 (2) City Life.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 17 (2) City Life\obj\Debug\net6.0\ref\ConsoleApp 17 (2) City Life.dll
