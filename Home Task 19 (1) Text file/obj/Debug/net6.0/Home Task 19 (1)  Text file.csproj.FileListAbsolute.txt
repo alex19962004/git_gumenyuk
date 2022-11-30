@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\bin\Debug\net6.0\Home Task 19 (1)  Text file.exe
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\bin\Debug\net6.0\Home Task 19 (1)  Text file.deps.json
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\bin\Debug\net6.0\Home Task 19 (1)  Text file.runtimeconfig.json
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\bin\Debug\net6.0\Home Task 19 (1)  Text file.dll
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\bin\Debug\net6.0\Home Task 19 (1)  Text file.pdb
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.AssemblyInfo.cs
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.dll
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\refint\Home Task 19 (1)  Text file.dll
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.pdb
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\Home Task 19 (1)  Text file.genruntimeconfig.cache
+C:\Users\User\source\repos\Home Task 19 (1)  Text file\obj\Debug\net6.0\ref\Home Task 19 (1)  Text file.dll

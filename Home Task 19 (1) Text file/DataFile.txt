@@ -1,0 +1,20 @@
+﻿Dot Net C# is one of the greatest managed programming languages. A managed programming language interprets
+or builds your code and transforms it into another executable format to be executed on your operating system.
+
+For example, in .Net, when you write some code and try to build it, the Just-in-Time JIT compilation
+compiles your code and transforms it to machine instructions, which then will be executed by Common
+Language Runtime CLR. 
+
+For more information about CLR, see Common Language Runtime.
+
+In this post, we will discuss 6 different ways to insert a new line in C# and test our code on a console
+application, and we will emphasize the relationship between one or more of these ways with what we
+discussed earlier about CLR.
+
+The 6 ways to insert new lines in C# are as follows:
+Using parameter-less Console.WriteLine() to add a new line.
+Injecting new lines within the same string.
+Using Environment.NewLine.
+Using the ASCII literal of a new line.
+Using \r\n to insert a new line.
+Inserting new lines in ASP.NET for an existing string.

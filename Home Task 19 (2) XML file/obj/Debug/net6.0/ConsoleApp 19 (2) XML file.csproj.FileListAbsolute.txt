@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\bin\Debug\net6.0\ConsoleApp 19 (2) XML file.exe
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\bin\Debug\net6.0\ConsoleApp 19 (2) XML file.deps.json
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\bin\Debug\net6.0\ConsoleApp 19 (2) XML file.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\bin\Debug\net6.0\ConsoleApp 19 (2) XML file.dll
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\bin\Debug\net6.0\ConsoleApp 19 (2) XML file.pdb
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.dll
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\refint\ConsoleApp 19 (2) XML file.dll
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.pdb
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ConsoleApp 19 (2) XML file.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp 19 (2) XML file\obj\Debug\net6.0\ref\ConsoleApp 19 (2) XML file.dll
