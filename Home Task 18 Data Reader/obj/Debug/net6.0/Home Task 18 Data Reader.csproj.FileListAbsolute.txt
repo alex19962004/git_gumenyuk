@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\Home Task 18 Data Reader.exe
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\Home Task 18 Data Reader.deps.json
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\Home Task 18 Data Reader.runtimeconfig.json
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\Home Task 18 Data Reader.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\Home Task 18 Data Reader.pdb
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.AssemblyInfo.cs
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.csproj.CopyComplete
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\refint\Home Task 18 Data Reader.dll
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.pdb
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\Home Task 18 Data Reader.genruntimeconfig.cache
+C:\Users\User\source\repos\Home Task 18 Data Reader\obj\Debug\net6.0\ref\Home Task 18 Data Reader.dll
