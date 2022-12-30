@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.AssemblyInfo.cs
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyProject CivilizationGame\bin\Debug\net6.0\CivilizationGame.exe
+C:\Users\User\source\repos\MyProject CivilizationGame\bin\Debug\net6.0\CivilizationGame.deps.json
+C:\Users\User\source\repos\MyProject CivilizationGame\bin\Debug\net6.0\CivilizationGame.runtimeconfig.json
+C:\Users\User\source\repos\MyProject CivilizationGame\bin\Debug\net6.0\CivilizationGame.dll
+C:\Users\User\source\repos\MyProject CivilizationGame\bin\Debug\net6.0\CivilizationGame.pdb
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.dll
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\refint\CivilizationGame.dll
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.pdb
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\CivilizationGame.genruntimeconfig.cache
+C:\Users\User\source\repos\MyProject CivilizationGame\obj\Debug\net6.0\ref\CivilizationGame.dll

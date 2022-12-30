@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ConsoleApp 13 (2) Exception_CustomException\\ConsoleApp 13 (2) Exception_CustomException.csproj",
+      "projectUniqueName": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 13 (2) Exception_CustomException\\ConsoleApp 13 (2) Exception_CustomException.csproj",
       "projectName": "ConsoleApp 13 (2) Exception_CustomException",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ConsoleApp 13 (2) Exception_CustomException\\ConsoleApp 13 (2) Exception_CustomException.csproj",
+      "projectPath": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 13 (2) Exception_CustomException\\ConsoleApp 13 (2) Exception_CustomException.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ConsoleApp 13 (2) Exception_CustomException\\obj\\",
+      "outputPath": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 13 (2) Exception_CustomException\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

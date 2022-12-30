@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj": {}
+    "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj": {
+    "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj",
+        "projectUniqueName": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj",
         "projectName": "ConsoleApp 17 (2) City Life",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj",
+        "projectPath": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 17 (2) City Life\\ConsoleApp 17 (2) City Life.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ConsoleApp 17 (2) City Life\\obj\\",
+        "outputPath": "D:\\itea_git_homeworks\\git_gumenyuk\\ConsoleApp 17 (2) City Life\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

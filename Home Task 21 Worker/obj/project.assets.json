@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Home Task 21 Worker\\Home Task 21 Worker.csproj",
+      "projectUniqueName": "D:\\itea_git_homeworks\\git_gumenyuk\\Home Task 21 Worker\\Home Task 21 Worker.csproj",
       "projectName": "Home Task 21 Worker",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Home Task 21 Worker\\Home Task 21 Worker.csproj",
+      "projectPath": "D:\\itea_git_homeworks\\git_gumenyuk\\Home Task 21 Worker\\Home Task 21 Worker.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Home Task 21 Worker\\obj\\",
+      "outputPath": "D:\\itea_git_homeworks\\git_gumenyuk\\Home Task 21 Worker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
